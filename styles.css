@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:#000;
+    color:#fff;
+}
+.image{
+ height:150px
+ width:100px
+}
